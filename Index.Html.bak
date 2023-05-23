@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>School Toperrs</title>
+    <link rel="stylesheet" href="css/hhw.css">
+    <style type="text/css">
+        center{border-radius:10vh}
+    </style>
+</head>
+<body style="background-color:rgb(255,251,214);">
+    <div class="imgbox">
+    <center><img src="56d7ef5a-da4a-44aa-a907-c7edf29e922e.jpg" alt=""></center>
+    </div>
+    <div class="body"></div>
+</body>
+</html>
